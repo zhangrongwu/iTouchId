@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iTouchId'
-  s.version          = '0.1.5'
+  s.version          = '0.1.6'
   s.summary          = 'touch id 封装使用'
 
 # This description is used to generate tags and improve search results.

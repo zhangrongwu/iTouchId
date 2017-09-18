@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iTouchId'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'touch id 封装使用'
 
 # This description is used to generate tags and improve search results.
@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/zhangrongwu/iTouchId'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'zhangrongwu' => 'zhangrongwuios@sinn.com' }
+  s.author           = { 'zhangrongwu' => 'zhangrongwu@ennew.cn' }
   s.source           = { :git => 'https://github.com/zhangrongwu/iTouchId.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iTouchId'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'touch id 封装使用'
 
 # This description is used to generate tags and improve search results.
@@ -35,6 +35,6 @@ Pod::Spec.new do |s|
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'LocalAuthentication'
+  s.frameworks = 'UIKit', 'LocalAuthentication'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

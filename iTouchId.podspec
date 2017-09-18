@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iTouchId'
-  s.version          = '0.1.2'
+  s.version          = '0.1.5'
   s.summary          = 'touch id 封装使用'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
     s.description  = <<-DESC
-touch id 使用.
+touch id 使用, 开发者直接通过pod方式导入，引用相关类可以直接进行验证.
 DESC
 
   s.homepage         = 'https://github.com/zhangrongwu/iTouchId'

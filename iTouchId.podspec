@@ -17,7 +17,9 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = "touch id 使用"
+    s.description  = <<-DESC
+touch id 使用.
+DESC
 
   s.homepage         = 'https://github.com/zhangrongwu/iTouchId'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'

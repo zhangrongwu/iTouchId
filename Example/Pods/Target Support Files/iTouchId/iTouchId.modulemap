@@ -1,0 +1,6 @@
+framework module iTouchId {
+  umbrella header "iTouchId-umbrella.h"
+
+  export *
+  module * { export * }
+}

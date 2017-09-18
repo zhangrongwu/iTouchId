@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iTouchId_Example' do
+  pod 'iTouchId', :path => '../'
+
+  target 'iTouchId_Tests' do
+    inherit! :search_paths
+    
+    
+  end
+end
